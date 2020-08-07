@@ -1,0 +1,19 @@
+---
+layout: default
+---
+<ul>
+  {% for post in site.categories.blog %}
+    {% if post.url %}
+    <article class="post-container">
+        <header class="post-header">
+          <h3 class="post-title">
+            <a href="{{ post.url }}">{{ post.title }}</a>
+          </h3>
+        </header>
+        <section class="post">
+          {{ post.content }}
+        </section>
+    </article>
+    {% endif %}
+  {% endfor %}
+</ul>

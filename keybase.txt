@@ -1,0 +1,73 @@
+==================================================================
+https://keybase.io/nikolaishields
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://nikolaishields.com
+  * I am nikolaishields (https://keybase.io/nikolaishields) on keybase.
+  * I have a public key with fingerprint 41A3 43B8 4C29 084C B55B  2B02 C8BB 4812 8FB0 B5E4
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101f09e631c3cc4128a427c4257816f210a9f79855c808ea807a99c68c4a32722e50a",
+      "fingerprint": "41a343b84c29084cb55b2b02c8bb48128fb0b5e4",
+      "host": "keybase.io",
+      "key_id": "c8bb48128fb0b5e4",
+      "kid": "0101f09e631c3cc4128a427c4257816f210a9f79855c808ea807a99c68c4a32722e50a",
+      "uid": "8abf0de52d6db9ad451c92cfa3d31219",
+      "username": "nikolaishields"
+    },
+    "service": {
+      "hostname": "nikolaishields.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1507610700,
+  "expire_in": 157680000,
+  "prev": "abb756c254ce570332771e0c53f5276cd6906a52e8ca0aaaf59475e8dbe01f71",
+  "seqno": 3,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owGtUmtQVGUYhuUSGpcVB5ExcjhisbaD535ZuUzSrFiEFkrAOu2cy3fYE8vushcu
+chnFUYj9AQwQOssgoSljrkAjDJcxk0GyKYrVwCyNJBSjtCkZQHfSzjL5z5/9+b75
+3vd5nu95n3kbwgL8QvyvDKdH1vf0zfp//Rvnl3tzN1cOcWahDNKUQwVg5QJGAdjs
++gJJgDQQjMCICDOAxBAe43kcQWkWRykeRwmKRkgRRWCWESmGJgiehmnA0jDFMgxP
+0jzOYiiFooCAWUgNiZIpH1gtVslkl2VxhMVwjKNxHmVg+eQIgkM5GOVpjsNp+ROR
+gzkC4DLRYLb5GLI5jrWBRMks1+SHfsXec/D/s2/HihzNciIsAAIVSIFjWAEnEJ5B
+eZHFBAxBEcYHtAGriS0EMtokFZiNrGQzSHKWNqhSDcm9YokHvnh98zwXl8ibC2Ud
+i9VsN/Nmo9w32O0Wm8bHt5dZfIQSwOn/k9JzkkmQM5UZxcBqk8wmSIPISN4u+bQR
+AqZIBKZgWA2BUotkBXrJhyAokoZhX9ViFUCxrMlyHEWQPErgPCAoGJOHpxAA8wQm
+EihF8gLJwCRLoIDmWZhlWZFgcIoAtMABOWIKgXzTFZnMkAaTfbL5sqRNyjexdocV
+QJWrP1RggX7+IX6x6+ICXz+RNpChCsno072meLaHQQrfEvqtXqV8VqnSRjx9O3Qx
+Tp27JvPRicbft29oDRqs3Xj5j+W80+6sFz3pu866tCmV/XT/9APDw1O8km/V6XZu
+i50bHolqOChe7/SovI73o9fctU4beiqqIiY2/PjD9THnrs/u1UeWBqfOR69N6qva
+FHIgZnHsp7v+l8abB9p1HQkbuzvei0XSD7teTSrz735anjcPRoW227MJSz3dw0s3
+0+5n1F/M2HH4yEspl4NKPFGqAnV15oXmQ/PQR6q8LRH7nMle5fTIyCPwVm2MW7mq
+4lzopH64uP9KV8fyz81Hsmqc6qBbdXtTz7QNzl5tIUINZ2cUOXe6CiO+dH079cXM
+xYWAhFlnxcAQpHb0tXuLkiFljFZ3J2AsJS14zxbFC1Ofns8b31o1FNayL0o7+eRa
+6wdz15pwZ9ty9eZk6O+Ywt0fN3irb3xS23jlK+84V9L717GhuuoDBwvbdx43eo7u
+uZV5zpDV+PCo6o37y2+ejyDfORQbl5DbObE3KfAGqa4OP50eOJWdIPQqhabv7633
+OjSTpVvdO7SKnEWn68Hgn7cfn1Qd67vqDovHRuKjJeM3+ycy7OuM8CwVvlBZX3fS
+/Up4InYBd8cvbXKN7v987h9n9kAbrqvSvzuyff2lplMlXd/11rT8MqS2MTqjIueJ
+CVvr2eyJTx0tyfFEOirrtcFEZ83jbUXHz0xli78uzLhezvwX
+=BEx2
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/nikolaishields
+
+==================================================================
+

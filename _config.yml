@@ -1,0 +1,51 @@
+# Site settings
+title: Nikolai Shields
+description: 'A collection of my rants and musings'
+url: 'http://nikolaishields.com'
+baseurl: ''
+# google_analytics: 'UA-XXXXXX-X'
+# disqus_shortname: 'your-disqus-name'
+future: true
+author:
+  name: 'Nikolai Shields'
+  email: contact@nikolaishields.com
+  twitter_username: 
+  github_username:  nas30
+  linkedin_username:  nikolaishields
+
+defaults:
+  -
+    scope:
+      path: ''
+      type: 'posts'
+    values:
+        layout: 'post'
+
+defaults:
+  - scope:
+      path: 'keybase.txt'
+    values:
+      image: false
+
+# Build settings
+destination: _site
+paginate: 10
+permalink: /:year/:title/
+markdown: kramdown
+highlighter: rouge
+
+sass:
+    sass_dir: _sass
+    style: compressed
+
+kramdown:
+  # use Github Flavored Markdown
+  input: GFM
+  # do not replace newlines by <br>s
+  hard_wrap: false
+
+jekyll_compose:
+  auto_open: true
+
+plugins: ['jekyll-paginate', 'jekyll-compose']
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']

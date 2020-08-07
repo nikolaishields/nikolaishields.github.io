@@ -1,0 +1,36 @@
+
+
+
+
+
+
+
+About a month ago I setout to find a way to easily deploy and manage my dotfiles and envirment, while also syncronizing data across all of my machines and sharing local files with a remote decentralized authority, thus decoupling any importance of an individual machine or repository.
+The solution I have since started building looks as follows
+
+=> Opertating system (preconfigured to automatically deploy my environment)
+=> VPS (Used as a remote bridge to sia)
+=> self-hosted encrypted git (allowing for easy management and the ability to grow this system)
+=> Synchronization system (bacula or syncthing seems to be the best bet)
+=> backup system
+=> decentralized remote storage pool (sia extended by SiaDrive)
+
+Archiso
+I used archiso to build my own customized ISO file that contained a sychronized package list maintained by git via webhooks across every machine and installation.
+This process was interesting as I had never built my own installation media before.
+
+
+Dotfiles
+To make this whole thing work I needed to decouple some other parts of my dotfiles, add a means of catalogging all of the packages installed on any given machine, then create a modular installation script that would allow for easy installation of a new machine, regardless of make or model.
+
+Storage
+
+Backup
+
+Synchronization
+
+Resources
+
+
+
+
