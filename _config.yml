@@ -1,6 +1,6 @@
 # Site settings
 title: Nikolai Shields
-description: 'A collection of my rants and musings'
+description:
 url: 'http://nikolaishields.com'
 baseurl: ''
 # google_analytics: 'UA-XXXXXX-X'
